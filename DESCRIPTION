@@ -1,7 +1,7 @@
 Package: TCGAclustering
 Title: Data Analysis Pipeline for TCGA RNA-seq and Clinical Metadata
 Version: 0.0.0.9000
-Author: Shivansh Singh [aut, cre]
+Author: Shivansh Singh
 Maintainer: Shivansh Singh <singh19@usf.edu>
 Description: The package provides a comprehensive data analysis pipeline tailored for
     processing TCGA RNA-seq data alongside associated clinical metadata. It
