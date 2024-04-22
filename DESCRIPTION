@@ -1,0 +1,16 @@
+Package: TCGAclustering
+Title: Data Analysis Pipeline for TCGA RNA-seq and Clinical Metadata
+Version: 0.0.0.9000
+Author: Shivansh Singh [aut, cre]
+Maintainer: Shivansh Singh <singh19@usf.edu>
+Description: The package provides a comprehensive data analysis pipeline tailored for processing TCGA RNA-seq data alongside associated clinical metadata. It offers functionalities for loading the RNA-seq data and clinical metadata from CSV files, performing normalization and z-score transformation on the RNA-seq data, conducting Principal Component Analysis (PCA) for dimensionality reduction, optional data cleaning to handle missing values and merge datasets, visualization of PCA results with customizable options for coloring and labeling based on clinical metadata, K-means clustering with automated determination of the optimal number of clusters using silhouette analysis, and visualization of K-means clustering results on a scatter plot. This pipeline streamlines the process of exploratory data analysis and clustering of TCGA RNA-seq data, facilitating insights into underlying biological patterns and associations with clinical variables.
+Depends:
+    R (>= 4.2.3.0),
+    cluster,
+    ggplot2,
+    preprocessCore
+License: CC0
+LazyData: true
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
