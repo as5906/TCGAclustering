@@ -1,0 +1,674 @@
+case_id,race,vital_status,tissue_or_organ_of_origin,gender,tumor_stage
+a5b3de4c-f3fa-414c-b809-59c3c1438aa7,white,Alive,"Kidney, NOS",male,stage i
+4e244c64-8fb6-4689-a306-3d5ed5c6cca5,white,Alive,"Kidney, NOS",male,stage i
+85fcd432-abf4-4bb7-8039-2de41477cb44,white,Alive,"Kidney, NOS",female,stage iii
+66e2fda4-23de-49c6-bb89-82e9edc56e4b,white,Alive,"Kidney, NOS",male,stage iii
+78412f82-cc55-43d5-96ca-1d02cf957725,white,Alive,"Kidney, NOS",male,stage iii
+53d40ba3-c33b-4139-967d-5110884237a3,black or african american,Dead,"Kidney, NOS",male,stage iv
+3e9fda23-676d-4e78-8948-0c9df3d10064,white,Alive,Thyroid gland,female,stage iii
+b1640709-8b2f-4cca-a2c0-55a1b4a1884b,white,Alive,Thyroid gland,female,stage ii
+2b84cfbc-7cf6-4cb1-a1e3-ba85dafb89f4,not reported,Alive,Thyroid gland,female,stage iii
+77d5b246-33ba-4a96-9d73-06aca797653e,white,Alive,Thyroid gland,male,stage i
+23f47401-1bab-4395-970f-4e388aab2542,asian,Alive,Thyroid gland,female,stage iii
+46239f1e-bd85-4d7a-a313-762666599a6d,white,Alive,Thyroid gland,male,stage i
+64de42bd-d134-4f44-82fa-d6614709bf01,white,Alive,Thyroid gland,male,stage i
+dfe086e6-71a5-4131-9602-f20977bf7454,white,Alive,Thyroid gland,female,stage i
+8e274b77-c05e-4a8c-a106-c552df1f2d11,white,Alive,Thyroid gland,female,stage i
+d61e22d8-c3ce-4237-83d7-da188b9fd456,not reported,Alive,"Kidney, NOS",male,stage i
+44f39f41-cf63-421d-ad56-513beb72d9ca,white,Alive,"Kidney, NOS",male,stage i
+ebef9db3-eedc-4015-940c-a8ccd07e0d25,white,Alive,"Kidney, NOS",male,stage i
+4b7cd595-e7f9-45a8-b736-a8c7c42d9539,asian,Alive,"Upper lobe, lung",female,stage ib
+5202458b-c38a-47c0-a0ba-5f1a59a762a0,black or african american,Alive,"Upper lobe, lung",female,stage ia
+f1985735-a188-4567-a88a-530f9b80291b,white,Dead,"Upper lobe, lung",female,stage ib
+b87a5d92-4c09-48fe-bb08-b3c89a7c892e,white,Alive,"Upper lobe, lung",female,stage ia
+482eb2a7-6fed-4e4c-b1b6-14d6d869f855,white,Alive,"Lower lobe, lung",female,stage iia
+8c695c24-e7f9-449a-9258-a1bc8a33bf9a,white,Dead,"Upper lobe, lung",male,stage iia
+30f276a8-3a4b-4de8-aea0-7f605d100401,asian,Alive,"Lower lobe, lung",male,stage iv
+8609edfc-119d-4d63-9188-c86aabd5ca52,white,Alive,"Upper lobe, lung",male,stage ia
+a9644274-13bb-4228-9b4f-14260ccc26eb,white,Alive,"Lower lobe, lung",female,stage iiia
+81bc5a6f-3584-486d-8a8f-d976dcb666ff,white,Alive,"Kidney, NOS",female,stage i
+93766482-2f20-4c8f-bbd8-bdd203c37d5a,not reported,Alive,"Upper lobe, lung",female,stage iiia
+397d3f69-1453-4057-b177-8723eec923d1,asian,Alive,Overlapping lesion of lung,male,stage iv
+6092bd5c-e97c-4a77-a4ad-c87623b17507,white,Alive,"Upper lobe, lung",female,stage ib
+5fd0f07b-8bb9-4378-bd26-28a26057e8fe,white,Alive,"Lower lobe, lung",male,stage ia
+e00a60d7-4253-443d-a187-680ad0931349,white,Dead,"Upper lobe, lung",male,stage ib
+e62a728d-390f-428a-bea1-fc8c9814fb11,asian,Alive,Thyroid gland,female,stage i
+aa528913-cbbc-4e1d-b6d0-87f6a46bcbc9,white,Alive,Thyroid gland,female,stage i
+d78012b6-24f9-48f5-9409-9845d0be2b3c,white,Alive,Thyroid gland,male,stage iva
+f2bbb5fa-9997-45de-88d4-8f1e94c18f0d,white,Alive,Thyroid gland,female,stage i
+a9d8f797-8a53-4be5-b957-0f1f6d080390,white,Alive,Thyroid gland,female,stage i
+fef9c64f-5959-4da0-aaa2-66b56fc7b4c3,not reported,Alive,Thyroid gland,female,stage i
+fd3315da-c870-4ad0-9d2a-50b1647d3e46,white,Alive,Thyroid gland,female,stage iii
+dd478399-d2ec-4ae4-a82a-b0258d24d088,white,Alive,Thyroid gland,male,stage i
+3b1e2bd6-3d32-40f7-9b32-0df32dfcbc72,white,Alive,Thyroid gland,female,stage ii
+f9deeda6-8f81-441a-9c47-24c2eefd049a,white,Alive,Thyroid gland,female,stage i
+43b7a790-35a2-4786-b375-c3847d2aec62,white,Dead,Body of stomach,male,stage iv
+2a398af1-aea5-4aae-ab00-a2dc152f965a,not reported,Alive,Thyroid gland,female,stage iii
+9b6acc25-447d-4144-b4c0-ef52b8850d96,not reported,Alive,Thyroid gland,male,stage i
+f3665b89-957b-4d7b-b67f-39615c47d28b,white,Alive,Thyroid gland,female,stage iva
+d2cc4d31-38fa-4232-895e-767260f607e9,white,Alive,Thyroid gland,female,stage iii
+8b1987f7-75fd-4e24-be77-891bbd2d40a1,white,Dead,Thyroid gland,female,stage iva
+dde7ade8-de24-467f-855d-a422bbede407,white,Alive,Thyroid gland,female,stage iii
+4e80f403-0e10-4725-854d-f023c12ee1e2,not reported,Alive,Thyroid gland,male,stage i
+e61fb24b-613a-4b6d-bb2b-00ccedbd3dbc,white,Alive,Thyroid gland,female,stage iii
+7a9b57c9-6f80-4aea-bf9c-76407c8084be,asian,Alive,Thyroid gland,female,stage iii
+c14a0460-30b0-453b-ab81-da03ad4ad02e,white,Alive,Thyroid gland,female,stage iii
+e2475d48-628b-4095-b101-865d79a4b0ed,white,Alive,Thyroid gland,female,stage i
+a1227ffa-2733-4a43-ba82-834755453870,asian,Alive,Thyroid gland,female,stage i
+faa51172-60ec-48d8-9224-36bfda1d27e0,white,Alive,Thyroid gland,female,stage i
+778a8f53-53f6-4a03-8ce1-b0928539a444,white,Alive,Thyroid gland,male,stage iii
+96b95a2c-fb4f-4cba-89e7-a7f0e90db146,white,Alive,Thyroid gland,female,stage ii
+d4c68c1c-a3f3-4e0c-b555-d457378a1d24,white,Alive,Thyroid gland,female,stage i
+25184e51-1464-438a-80ff-cfc9a443cd36,white,Alive,Thyroid gland,female,stage i
+f82f9ae8-e106-4c61-941c-3614d51b0f41,white,Dead,Thyroid gland,male,stage iii
+5dcbdfcf-8a4d-4da5-9049-f2b970fe8ca8,white,Alive,Thyroid gland,male,stage iii
+286c69b0-75ba-48d6-a26b-26077f101bbb,asian,Alive,Thyroid gland,male,stage i
+a86ac3b5-b5e9-4420-8de0-a358fcad85b6,white,Alive,Thyroid gland,female,stage i
+f3ee888e-5116-4313-a2f6-3b1dcc3e4bc1,white,Alive,Thyroid gland,male,stage ii
+c93c47f4-88f3-405a-85f4-ba9450b74522,white,Alive,Thyroid gland,female,stage i
+2943375e-3de8-4d42-959a-62f4192067ae,white,Alive,Body of stomach,male,stage ia
+011ae7b8-5003-4fcd-9f20-906a723f2c66,white,Dead,Thyroid gland,female,stage iii
+905469d2-4c97-4293-a20c-1b1f0462a25d,white,Alive,Thyroid gland,female,stage iva
+25d8a79e-15fd-4c8a-a7f6-05d78973b757,white,Alive,Thyroid gland,male,stage i
+d60f6620-575d-47fe-83e8-80a6ad838bed,white,Alive,Thyroid gland,male,stage i
+f9db9757-04d8-40bd-a58d-605f4255b0e6,asian,Alive,Thyroid gland,male,stage i
+b107b012-335a-4282-a7aa-273b740831f1,white,Alive,Thyroid gland,female,stage i
+e8f56d0f-eee4-4def-a43a-dec91f4382a1,not reported,Alive,Thyroid gland,female,stage i
+a1196d5f-8c7d-4d9d-9e46-c5c22a9c2fef,black or african american,Dead,Thyroid gland,male,stage iii
+cbab7a72-11f7-4dfe-80f8-1b1ef1cf0055,white,Alive,Thyroid gland,female,stage i
+18a58e3e-f18e-45cf-86bc-1851abb9b3de,black or african american,Alive,Thyroid gland,female,stage i
+c781b49e-d08f-49e6-b774-7cfe4100e92d,white,Alive,Thyroid gland,female,stage i
+e70feafd-1390-4f4c-a635-da65c1a7daeb,white,Alive,Thyroid gland,female,stage i
+f854ce67-c586-4424-a674-2dd67ad0ed7f,not reported,Alive,Thyroid gland,female,stage iva
+87858089-1bad-4e5d-80ed-04f846da9ca4,white,Alive,Thyroid gland,female,stage i
+02a8e937-c747-4ba1-911c-0860e62b8f83,white,Alive,Thyroid gland,female,stage i
+c30eb9bd-d705-4464-9014-e0aa7cda53c7,black or african american,Alive,Thyroid gland,female,stage i
+45da55a6-aa58-49af-9a28-95b8ca2d4614,white,Dead,"Kidney, NOS",male,not reported
+befa0ef5-d621-4866-904d-13341ea54aa1,white,Alive,Thyroid gland,male,stage iva
+300720c8-68e5-4a3b-a873-3ad36ad0f953,white,Alive,Thyroid gland,male,stage i
+9a19f08b-386a-40b1-b694-78e8556a6caa,white,Alive,Thyroid gland,female,stage i
+ab17d69e-0078-4206-939e-e4784fdc9a96,white,Alive,Thyroid gland,male,stage i
+ef3dd880-7be4-46a8-93c2-7cba1a9cd24d,white,Alive,Thyroid gland,female,stage ii
+12f90efb-c45b-4372-8197-2dfd9ca247ea,not reported,Alive,Thyroid gland,female,stage iva
+7851512b-5f44-43de-8b27-99b5e91a8119,white,Alive,Thyroid gland,female,stage i
+6ff5c8bd-9929-43ee-b53c-3c7c0b23f97b,asian,Alive,Thyroid gland,female,stage i
+c9dc11ad-d3f5-4cdf-9c26-7139580b59af,not reported,Alive,Thyroid gland,female,stage i
+e8d74dbb-410c-4f8f-8e1f-2b2dd7634160,white,Alive,Thyroid gland,female,stage i
+e94dfd42-4fe4-48e9-aa62-422ae071413f,white,Alive,Thyroid gland,female,stage iva
+a253b21e-ba9b-4928-95d1-89b59c868794,white,Alive,Thyroid gland,female,stage i
+53ba15c0-780e-4153-a612-046f1b24b4b3,white,Alive,Thyroid gland,female,stage iii
+14591ce2-ed02-440d-8004-7ca0ad94d0a7,not reported,Alive,Thyroid gland,female,stage i
+a2e2fac3-cca5-4e33-aa6c-1d9d3ac3aeec,white,Alive,Thyroid gland,female,stage i
+c951b786-7de3-4195-85b9-c4c19e95f546,white,Alive,Thyroid gland,female,stage i
+471636d5-9eca-49df-872a-c2a2cac61838,white,Alive,Thyroid gland,female,stage ii
+72d8dcc3-0709-4fd1-98d4-fb75e9340758,not reported,Alive,Thyroid gland,male,stage ii
+0a1eea76-e19a-4547-9b24-abf7051cc4db,white,Alive,"Middle lobe, lung",male,stage iia
+f8ac66a2-16a5-4230-986b-1da8d0a61361,white,Alive,"Kidney, NOS",female,stage ii
+5bad31ef-94b3-4765-a4de-6a0caf5d3154,white,Alive,"Kidney, NOS",male,stage i
+73292c19-d6a8-4bc4-97bc-ccce54f264f8,white,Alive,"Kidney, NOS",male,stage ii
+d1a96a7a-2b11-48ce-869e-1fa19c1eb0a5,white,Alive,"Kidney, NOS",female,stage i
+c4d1e105-28b7-48df-abef-fbe09782fdb2,white,Dead,"Upper lobe, lung",male,stage ib
+7cce924f-12a1-4895-9866-5d4b1869dde6,white,Dead,"Upper lobe, lung",female,stage iiia
+b877d608-e4e0-4b28-9235-01dd65849cf7,white,Dead,"Kidney, NOS",female,stage iii
+a8ec7a72-7e3a-41cc-9eb7-62e7a0642a20,white,Alive,"Kidney, NOS",male,stage i
+0b8956ec-f11b-4d74-b8b7-bfcb64ae974c,white,Dead,"Kidney, NOS",male,stage iii
+08a50ae7-179c-4241-8aed-79db6c218c90,white,Alive,"Kidney, NOS",male,stage i
+f590f15b-21f5-4d99-9021-e5e1e0cc3758,white,Alive,"Kidney, NOS",male,stage iii
+deace3d5-26fc-44d3-9f39-b5cde2c94152,white,Alive,"Kidney, NOS",male,stage iv
+0c151271-2cf9-43f4-9e9b-fe927de43131,black or african american,Alive,"Kidney, NOS",female,stage i
+52495119-a052-4749-bed4-d4c81a6c3fb2,white,Alive,"Kidney, NOS",female,stage i
+685a343d-c253-40e9-a53c-6521baf24f9f,black or african american,Alive,"Kidney, NOS",female,stage ii
+9d12d90a-4948-434a-8802-8e83fd5fe01d,white,Alive,"Kidney, NOS",male,stage i
+d4d1c1d8-efc3-4282-b986-d7343de7e78f,white,Alive,"Kidney, NOS",male,stage i
+32bbf3d8-fd0e-45e2-b2a8-80192e86a13c,white,Alive,"Kidney, NOS",male,stage i
+1957fb63-be5a-4889-bbae-01dfbd286c4a,white,Dead,"Kidney, NOS",male,stage iii
+6eb010c4-c906-42d4-894d-8b47de90e023,white,Alive,"Kidney, NOS",male,stage i
+f9c593d1-f204-4026-8a9b-a6af0922c885,black or african american,Alive,"Kidney, NOS",male,stage i
+60df8616-8189-4d5c-8ebc-a05488cd9083,black or african american,Alive,"Kidney, NOS",male,stage i
+f1ec5a7b-0973-4c38-9908-862196df9541,white,Alive,"Kidney, NOS",male,stage i
+3f253cb2-ed66-4d02-a1d2-ba2f4320e61d,white,Alive,"Kidney, NOS",male,not reported
+e8c22f36-20ad-469f-8eac-fb52d8b2cd5c,white,Alive,"Kidney, NOS",male,stage i
+6264f0dd-cc82-45f3-bee0-64f52307d324,black or african american,Dead,"Kidney, NOS",female,stage iii
+e5641df6-0d4f-4613-a012-c953f8b2017e,white,Alive,"Kidney, NOS",male,stage i
+1a4164d9-4484-452d-9382-8cbf896a870e,not reported,Alive,Thyroid gland,male,stage iva
+847865ca-9cf4-414b-bf59-a55965f37ec6,asian,Dead,"Kidney, NOS",female,stage iii
+e6831884-67a2-4ce4-bdfa-49e5e208eae8,white,Alive,"Kidney, NOS",male,stage i
+9ec1c41f-495b-4715-956c-9f1ed0b47e01,black or african american,Alive,"Kidney, NOS",male,stage i
+ac8cadda-c01e-4e8d-9557-38e0a36c3210,white,Alive,"Kidney, NOS",male,stage i
+1e63d4b3-1b49-4bb9-b64f-001273aae120,white,Alive,Thyroid gland,female,stage i
+e0174496-d774-4417-81d1-cb16771760ad,white,Alive,Thyroid gland,female,stage i
+cb622cd6-776d-4681-8a67-4addd61c66b8,white,Dead,"Cardia, NOS",male,stage ii
+02661985-d13f-4007-9a42-5e08d1a6ca10,white,Dead,Gastric antrum,female,stage ii
+315cbbe8-62c8-488b-92c5-e2046321efb7,white,Alive,Thyroid gland,female,stage ii
+b1d71782-2443-43f3-bd0e-8b7220515cb6,white,Alive,Thyroid gland,female,stage i
+13c97cfb-eea2-4ae8-9209-c967d9642cef,white,Alive,Thyroid gland,male,stage iva
+a3f87411-0a7b-4415-ba17-8edcc2639f6c,white,Alive,Thyroid gland,female,stage i
+1da4ab7d-4353-4565-a522-d2fecadd4a85,white,Alive,Thyroid gland,female,stage i
+7f9fad75-ac3e-4580-b949-80eed07a3230,black or african american,Alive,Thyroid gland,female,stage iii
+d61ca744-adc4-44d5-ad15-cc17399e8083,white,Alive,Thyroid gland,female,stage i
+29c4319c-3ead-42b1-810d-418da8d515c4,white,Alive,Thyroid gland,female,stage iii
+e9ccf355-e68a-489c-a914-31b766bd0aef,white,Alive,Thyroid gland,female,stage i
+e95c7f24-89ab-4d56-aae6-d2268888c549,white,Alive,Thyroid gland,female,stage iii
+7b46ee87-e976-41bf-bdf1-9bff58f8314e,white,Alive,Thyroid gland,female,stage i
+bcd63672-8a22-4a30-9045-a43def5b4d6f,asian,Alive,Thyroid gland,male,stage i
+cd1656d8-55a5-4248-b81d-fed9d5992cbe,white,Alive,Thyroid gland,female,stage i
+8950691c-600f-4a90-adf6-42a8f129aa3e,asian,Alive,Thyroid gland,female,stage i
+e1c8af06-9ea4-4062-9264-aa916e0025d1,black or african american,Alive,Thyroid gland,female,stage iva
+dc5c1a76-30de-4b30-b397-3ad691c92a86,white,Alive,Thyroid gland,female,stage i
+2ce580e9-4d75-464c-b403-c9f4626d7aa4,asian,Alive,Thyroid gland,male,stage i
+4d9de9a1-7df1-412e-9f16-15dd51b4c5f5,white,Alive,Thyroid gland,female,stage iii
+a6d37f61-beca-46ea-a59a-62257475ac77,white,Alive,Thyroid gland,female,stage i
+af546062-0960-41f0-9ed1-6acecbad99f3,white,Alive,Thyroid gland,female,stage i
+34d4cc10-b868-4e85-96a5-8680fc729e34,white,Alive,Thyroid gland,female,stage i
+8446bcba-0dcd-42eb-96a1-00f5470c9f65,white,Alive,Thyroid gland,female,stage i
+d579370b-8aa7-4472-9e28-43c761be3eda,asian,Alive,Thyroid gland,female,stage i
+3b088cb4-6fd4-45ac-a708-dffd873546dc,white,Alive,Thyroid gland,female,stage i
+c438c562-a2b6-4ceb-b91a-7e77eb2ec962,asian,Alive,Thyroid gland,female,stage i
+256976a4-41ab-445e-ae26-c594ba1fa324,white,Alive,Thyroid gland,female,stage i
+7555e736-a9e2-4b96-a633-fb0f7224d62c,not reported,Alive,Thyroid gland,female,stage iva
+1757c89f-8795-4c3b-bbad-1e6f617f2472,white,Alive,Thyroid gland,female,stage i
+23ad7900-4e99-4abf-82ff-71edeaa8a51c,white,Alive,Thyroid gland,female,stage i
+90507baa-b716-4bcf-a18e-9d8ae97d809a,white,Alive,Thyroid gland,female,stage i
+c35e4390-2809-4d88-86f3-208de05b338a,black or african american,Alive,Thyroid gland,female,stage iva
+40a9c1d3-6629-4e22-a783-12e0d48349d1,white,Alive,Thyroid gland,female,stage iva
+744df1f5-a7d5-4675-92ce-6e4713f0d541,white,Alive,Thyroid gland,female,stage i
+98a08015-9040-4e0b-bcfa-2c6db7d0f888,not reported,Alive,Thyroid gland,male,stage iva
+8dd09d74-0be8-4c58-bf44-de4a2466d044,not reported,Alive,Thyroid gland,male,stage i
+ef306507-f426-499e-8a1f-3401a522fb6b,not reported,Alive,Thyroid gland,female,stage iii
+4d1aec67-c345-4721-8ee8-356b0dff009b,white,Alive,Thyroid gland,male,stage i
+d4355111-3abb-40f0-bdb7-b9eaa39dc771,white,Alive,Thyroid gland,male,stage i
+75a93f0e-cd41-43c6-a303-ff37e31395e9,asian,Alive,Thyroid gland,female,stage i
+8c5aef43-341e-4a37-84eb-fd730eb957c7,white,Alive,Thyroid gland,male,stage iii
+8ed1b900-a8a8-4164-b96b-f060f15d7075,white,Alive,Thyroid gland,female,stage i
+641ba101-135b-4395-9360-2058fabfed56,white,Dead,Thyroid gland,female,stage ii
+99ac4f2e-2e63-4f1e-af0f-8f23a2caf999,not reported,Alive,Thyroid gland,female,stage i
+63e8c48e-f01b-4a7f-87e2-30607a2c8f6c,white,Alive,Thyroid gland,female,stage ii
+6491d025-c061-4180-bfd4-d7c6e6e55f66,not reported,Alive,Thyroid gland,female,stage i
+a121406a-30b2-4717-ae96-edcb17d911e2,black or african american,Alive,"Kidney, NOS",male,stage i
+87ae9d51-7397-4dca-87a4-7b0f20321729,white,Dead,"Kidney, NOS",male,stage iii
+a7c1d88a-d3a2-4232-a0df-3bd48fc27cc0,white,Alive,"Kidney, NOS",male,stage i
+f0f7e57f-1e9d-4f24-a685-a0811aacbbed,black or african american,Alive,"Kidney, NOS",male,stage i
+43d92569-fe5d-4eeb-a9cc-f7cd26fb3284,white,Alive,"Kidney, NOS",male,stage i
+4afab224-f65e-48a8-8802-01138e210e29,black or african american,Dead,"Kidney, NOS",female,stage iii
+dff3c4f1-9009-4111-9fc2-3834f8f7dbdd,asian,Alive,Thyroid gland,female,stage iva
+085ffcdc-8600-42e2-852a-506465f716a2,white,Alive,Thyroid gland,female,stage iva
+f0bc4f65-211b-4ae1-8e68-aaef3f3c6db8,white,Alive,Thyroid gland,female,stage i
+e069dcad-2fd1-464e-a5e9-fe36f05a0446,black or african american,Alive,Thyroid gland,female,stage iva
+00d588e3-3db6-4cf3-9def-34d941e8cdb0,white,Alive,Thyroid gland,male,stage iii
+97d0e1bb-1459-4124-b25a-48195f2ad8b5,black or african american,Alive,Thyroid gland,female,stage i
+b7bafe7f-295c-4598-9cc8-49d785bd2218,not reported,Alive,Thyroid gland,female,stage i
+6a63961e-6ca4-45fa-93ee-65f7c392fcf0,black or african american,Alive,Thyroid gland,female,stage i
+63b01b43-a68a-4046-89b0-736ba4d08504,white,Alive,Thyroid gland,female,stage i
+edb90376-0ef9-47dd-be6f-a6e8a0380a9c,white,Alive,Thyroid gland,male,stage i
+ca95a11c-b54c-409e-b9a0-da850945033d,white,Alive,Thyroid gland,female,stage ii
+77200abe-4a09-4a4a-bb45-60d9b96d4998,white,Dead,Thyroid gland,male,stage ii
+e53893e7-cfaf-49bb-917f-6d549652b319,white,Alive,"Kidney, NOS",female,not reported
+13afbde8-e5b5-4f3c-8a9d-daef71560005,white,Alive,"Kidney, NOS",male,stage i
+7d0dbcb3-d024-4c20-a545-430c0d067fda,asian,Alive,"Kidney, NOS",male,stage iii
+5cbf0134-023b-4bd0-97da-eb836ccbc729,black or african american,Alive,"Kidney, NOS",male,stage i
+4f86dec5-34a7-4c11-9578-7e007a203cbf,white,Dead,"Kidney, NOS",male,stage i
+366f39be-05ab-402b-9525-725e095de570,asian,Alive,"Kidney, NOS",female,stage i
+672fe335-42ed-4a86-9953-c8862a081c24,white,Alive,"Kidney, NOS",female,stage i
+cfc6f9ef-73b1-46af-b4c8-94fdd34f4584,not reported,Alive,"Kidney, NOS",male,stage iv
+42d044ae-1416-477d-ac80-779c49bc8d35,black or african american,Alive,"Kidney, NOS",male,not reported
+104604c8-2cb5-4538-b964-dbff3b6bc19f,white,Alive,"Kidney, NOS",male,stage i
+a40beabe-496e-4324-a1d1-5a7d8b002aab,white,Alive,"Kidney, NOS",male,stage i
+d4c9fd69-d447-4607-be1e-2b5f7ec15f90,white,Alive,"Kidney, NOS",female,stage iii
+f0446aed-9b4b-4e77-8708-88f239f2b671,black or african american,Alive,"Kidney, NOS",male,stage i
+1f298bcc-c8d0-43bd-8ca6-5c160922b607,white,Alive,"Kidney, NOS",male,stage i
+6208a0a6-104e-48e6-964c-39d120b418d3,black or african american,Alive,"Kidney, NOS",male,stage i
+a4225cb2-7b4b-4122-b6b9-629c26e3ea56,white,Alive,"Kidney, NOS",male,stage iii
+e15a108e-0b32-426f-926a-3fb1af0a82d3,white,Alive,"Kidney, NOS",male,stage ii
+69cec2e1-fa83-47e2-a75d-9c1432f1108d,white,Alive,"Kidney, NOS",male,stage i
+075d17f2-dd1a-4c12-9e6c-ded1b052d107,white,Alive,"Kidney, NOS",male,stage i
+12fb96fd-c75e-4eb9-ad92-1a1ae7ad4749,white,Alive,"Kidney, NOS",male,stage iii
+cd54aff9-bee4-41aa-b347-48f8684dcece,white,Alive,"Kidney, NOS",male,stage ii
+cf059d8a-6c7a-48f4-a545-1160177d208d,black or african american,Alive,"Kidney, NOS",female,stage i
+e7a1cbe2-793c-4747-8412-8be794f2382b,white,Alive,"Kidney, NOS",male,stage i
+ed013726-31cd-4201-bf95-7746cce2a525,american indian or alaska native,Alive,"Kidney, NOS",male,stage i
+93b05e07-fd17-44ce-8735-dcc28264b229,white,Dead,"Kidney, NOS",female,stage i
+2e930925-9eaf-4469-9328-35241f60eddd,not reported,Alive,"Kidney, NOS",male,stage i
+886ce4a0-a78d-4976-9667-041385c9b6d5,black or african american,Alive,"Kidney, NOS",male,stage i
+f24b772a-147e-4889-be23-e4ea10824d66,white,Alive,"Kidney, NOS",female,stage iii
+fb3aced2-4eb5-4b82-824f-e382a469bc15,white,Alive,"Kidney, NOS",male,stage i
+7dcb37f9-c059-4ed3-a616-963ad4ada6d7,not reported,Alive,"Kidney, NOS",male,stage i
+2030e10b-a4c2-460f-9e29-90c8a76ea05e,black or african american,Alive,"Kidney, NOS",male,stage i
+212aa9c4-610d-4286-9ca2-ae6c87b9bc0e,white,Alive,Thyroid gland,female,stage iii
+a552e8ab-9dec-44ea-9f02-7ca704ee8467,asian,Alive,Thyroid gland,female,stage i
+fd661b1b-fe0b-4ab0-ae82-76324e2f6a81,white,Dead,Thyroid gland,male,stage iii
+89c72f0e-e724-4826-bb9c-d7524d1b1258,black or african american,Alive,Thyroid gland,female,stage iii
+aa3ce865-4bc1-4cca-9ba8-35ff4c5e165e,asian,Alive,Thyroid gland,female,stage ii
+acb3b9db-16e9-40f5-87a9-9df9d4ceee54,white,Alive,Thyroid gland,male,stage i
+04fff86a-b6f5-4900-9e37-c1f0b881b160,white,Alive,Thyroid gland,male,stage ii
+dffc4f7a-c67a-4ac5-a338-717dffde686d,white,Alive,Thyroid gland,female,stage i
+8b3de981-66cc-4aa6-9800-9cca6f8e1554,white,Alive,"Kidney, NOS",male,stage i
+adc5e117-f01a-4e4b-bcb8-3d1a726b01a1,white,Dead,"Kidney, NOS",female,stage i
+b809c2f2-185c-496a-a1d4-589294443a1d,black or african american,Alive,"Kidney, NOS",male,stage iii
+ed53edb2-3951-4d97-b62a-b9aee879cecd,white,Alive,"Kidney, NOS",female,stage i
+9bb2a95c-42f2-4847-8b65-eafa2d833859,white,Alive,"Kidney, NOS",male,stage iii
+dacfb24c-dc54-488c-9ad3-520ad061f1b5,white,Alive,"Kidney, NOS",male,stage i
+725802a7-d2cb-4c4a-b20e-980ca1056ada,white,Dead,"Kidney, NOS",male,not reported
+b87bc182-b1c7-4e8d-a34b-704431b1d8d0,black or african american,Alive,"Kidney, NOS",female,stage ii
+36b46540-472f-4a4d-a801-b8b6ae660dc9,not reported,Alive,"Kidney, NOS",male,stage i
+421e845c-f4e8-4f46-bff6-9aaa9d208e81,white,Alive,"Kidney, NOS",female,stage i
+21415ae7-dad6-40c4-be9d-3f881b558fbd,black or african american,Alive,"Kidney, NOS",female,stage i
+b11234b9-93d5-46df-bb67-110d6ed3e664,white,Alive,"Kidney, NOS",male,stage i
+1592435b-a79a-4fae-90f7-74b193777f08,white,Alive,"Kidney, NOS",male,stage iii
+d48bec14-6466-4924-a9e1-a37e31fcf83c,white,Alive,"Kidney, NOS",female,stage i
+dc39df39-9945-4cb6-a852-d3b42177ac80,white,Dead,"Kidney, NOS",male,not reported
+a614255d-9f1b-4e9a-8a50-435d4d123b3f,white,Alive,"Kidney, NOS",male,stage ii
+4a540448-f106-4b0e-9038-9f7ccefc785b,white,Alive,"Kidney, NOS",male,stage i
+0d80fac4-f43e-4a67-b372-0af320966dbc,black or african american,Alive,"Kidney, NOS",male,stage i
+4edd92e1-5da5-49a3-80e4-fa456aa425b8,black or african american,Alive,"Kidney, NOS",female,not reported
+604b9fd9-93d4-40b8-b83b-f5381d8418a2,white,Alive,"Kidney, NOS",male,stage i
+08269082-cd8d-413a-a606-aa140cccc9e6,black or african american,Alive,"Kidney, NOS",male,stage i
+9c7875ad-ab71-4d48-b2e3-e4c7a46393e9,white,Alive,"Upper lobe, lung",male,stage iiia
+ea859a83-00c3-40b2-97c1-fb24ad027ea6,white,Alive,Thyroid gland,male,stage i
+a6bdba04-f27d-4cef-bd82-872fb8390e46,white,Alive,Thyroid gland,female,stage i
+e92bdb0d-969a-4d98-ada8-5dfec68119b5,not reported,Alive,Thyroid gland,female,stage i
+d684399e-46c4-4bad-92e9-3de17c9f9a5f,white,Alive,Thyroid gland,male,stage iii
+05a8268a-6b33-429b-8638-8c9bb366ef28,white,Alive,Thyroid gland,female,stage i
+dc4d8468-6f34-40cb-a826-8d582cd86fde,white,Alive,Thyroid gland,male,stage iva
+8877b479-b62a-4794-b71e-418de96dff23,white,Alive,Thyroid gland,male,stage i
+cd0c33c3-4427-471d-979e-79dc43f3a018,white,Alive,Thyroid gland,male,stage iva
+8a476795-0e05-4da6-bbe1-ff7304da1b39,white,Alive,Thyroid gland,female,stage iii
+7d11b016-c564-4fb5-9b85-1b1a0188006f,white,Alive,Thyroid gland,female,stage i
+c9c00e4f-4092-400e-aebb-3d9961be0f0e,not reported,Alive,Thyroid gland,female,stage i
+3bfa52af-cb40-45d8-9bdc-591985aae7fb,white,Alive,Thyroid gland,female,stage iii
+5d0cc336-26f2-4cb0-aa9e-58491dda102f,black or african american,Alive,Thyroid gland,male,stage iva
+e4c85bdd-7b7c-414f-9503-647d9b825915,white,Alive,Thyroid gland,female,stage i
+430ad51d-f68c-40b2-bfa2-9da68370b7fa,white,Alive,Thyroid gland,female,stage iii
+1f3915cb-718c-42ae-ab0a-ce62b8664995,white,Alive,Thyroid gland,female,stage i
+1bacebf3-609e-4bb7-bb93-eb217b3a1b5c,white,Alive,Thyroid gland,male,stage iii
+f00fd40a-1254-4300-baf9-88528c453a2e,white,Alive,Thyroid gland,male,stage iii
+e9949320-ad37-4542-98c1-b72df60b1668,white,Alive,Thyroid gland,male,stage i
+a09d0be0-fd41-4b30-b488-9a9f2abef8e7,white,Alive,Thyroid gland,female,stage iii
+2cb43652-109b-4b59-9fcd-512903591f45,white,Alive,Thyroid gland,female,stage i
+6ad260ad-769a-4f3c-bd07-927adf6b2338,white,Alive,Thyroid gland,female,stage i
+28aef3ae-5375-4139-9b4e-5569eb394c88,not reported,Alive,Thyroid gland,female,stage i
+da201150-748e-4b74-bb35-10c995e26079,white,Alive,Thyroid gland,female,stage i
+a061976d-ba2c-4a18-a51e-952f198eb4d5,white,Alive,Thyroid gland,female,stage i
+039bfc94-fadd-440a-aade-a1595128583e,white,Alive,Thyroid gland,male,stage i
+1009a500-2a37-4aee-b7c3-049b5ce961a4,white,Alive,Thyroid gland,male,stage iii
+bf193c4f-fbac-41bc-b1af-19b6ce856f0f,white,Alive,Thyroid gland,female,stage i
+5a6b9340-acde-4d97-8836-20ae29732851,white,Alive,Thyroid gland,female,stage i
+a5406575-c840-475a-ab1b-e1a159413fbd,asian,Alive,Thyroid gland,female,stage i
+acb80b76-2394-4250-8687-60e40e16e83b,white,Alive,Thyroid gland,female,stage i
+4cccc34b-daf6-41ca-9bf8-f1614525eac9,white,Alive,Thyroid gland,male,stage iii
+08293bf4-727d-45c2-abbf-1aec3ba1c8a4,white,Alive,Thyroid gland,female,stage i
+d2a8035c-a8d3-4038-8a9d-854f2208bc45,white,Alive,Thyroid gland,female,stage i
+2fa2dd09-593a-4cde-97c7-61cdb8ba2bfe,white,Alive,Thyroid gland,female,stage i
+86d5865e-6a1c-467c-97c9-47460b77f5a4,white,Alive,Thyroid gland,male,stage iva
+6435ea21-7214-40c5-9ccb-a1f22685a728,white,Alive,Thyroid gland,male,stage ii
+884ad3b9-5350-4580-85f6-80ac05a6dcea,white,Alive,Thyroid gland,female,stage i
+fb14bd0d-b356-42a4-a0e9-2fcdada8f76b,white,Alive,Thyroid gland,female,stage i
+6592a7db-cbc7-4afd-9fdb-5cc16c16eeca,asian,Alive,Thyroid gland,female,stage ii
+00a02e62-e1ab-467a-91b3-5f526dd2251a,white,Alive,Thyroid gland,female,stage ii
+cd73c807-a74e-46a8-9855-92de33da9b0d,not reported,Alive,Thyroid gland,female,stage i
+b2e6933f-50e1-48e3-ae1f-173e1bc889ff,not reported,Alive,Thyroid gland,male,stage i
+ebbd54ad-7b97-4081-ad11-7f7f3ce74eef,white,Alive,Thyroid gland,female,stage iva
+86657a3c-10cf-48b7-9fda-f2df5e2afad5,white,Alive,Thyroid gland,male,stage i
+8a02f305-6fd8-4908-bc19-06babf028b5b,white,Alive,Thyroid gland,male,stage i
+5c118e15-1e48-42a6-8d29-179e6e71a26c,white,Alive,Thyroid gland,female,stage iii
+0cafefef-911b-46e8-9e6c-19a0e7d555aa,white,Alive,Thyroid gland,female,stage i
+86b82345-6f4d-44fd-a9db-6f107de62f53,asian,Alive,Thyroid gland,female,stage i
+c83fb5e6-8af3-47e4-ae48-cee92dff9db7,asian,Alive,Thyroid gland,male,stage i
+19378727-e0a6-4898-b2d0-f12241616870,not reported,Alive,Thyroid gland,male,stage iva
+69f621c8-de77-48c7-8939-4c887da9e6d8,white,Alive,Thyroid gland,female,stage i
+e071c940-60fa-4c73-bb65-1ad670021854,white,Alive,Thyroid gland,male,stage i
+188013d3-cefe-4861-b115-c34db1cf3831,white,Alive,Thyroid gland,female,stage iii
+f7a2b87f-c265-4cc5-a792-428756e31d8b,white,Dead,"Kidney, NOS",female,stage i
+9382942c-40dc-404a-ad8a-697612cdb575,white,Alive,Thyroid gland,female,stage i
+29afb71c-c2ca-499e-b1c7-12758c9b03d6,white,Alive,Thyroid gland,female,stage i
+7deedeba-f05b-453c-9df1-eeb20b0ec72e,white,Alive,Thyroid gland,female,stage i
+2106f0cd-cb3c-4568-bdc5-197ee11f2337,white,Alive,Thyroid gland,female,stage iii
+2378935d-aebd-4f6f-b31b-53bc6bd59bf9,black or african american,Alive,Thyroid gland,female,stage i
+989e9202-c08e-4bbf-85b3-1e278a475cb7,asian,Alive,Thyroid gland,male,stage i
+16505d78-90d9-47d0-9b86-c6ef91d23aac,asian,Alive,Thyroid gland,male,stage i
+04dc8ee3-ec93-4b56-a546-f96746f8122f,not reported,Alive,Thyroid gland,male,stage iva
+63c20d30-3bc9-4dca-8a8d-09fdea41f288,white,Alive,Thyroid gland,male,stage iii
+4fa53eb7-1fdb-4fe5-b5ad-f3d8069b3eb8,white,Alive,Thyroid gland,male,stage i
+dec7a0a2-c26e-4a89-a4d5-74bd1409ff91,asian,Alive,Thyroid gland,female,stage ii
+707312fe-1d92-413e-a891-1ea3f496c343,not reported,Alive,Thyroid gland,male,stage i
+524a39ee-8fa3-418e-98a2-a6a90e9c8064,white,Alive,Thyroid gland,female,stage i
+7cec93da-42c9-495d-8110-9fb43763041b,white,Alive,Thyroid gland,male,stage iii
+89f4a6a5-bf9b-4a0e-bacf-8cd715c2ca93,white,Alive,Thyroid gland,male,stage ii
+12ecc0e5-8cb8-406e-ac9f-4f8c22b64fc1,asian,Alive,Thyroid gland,female,stage i
+149b46a3-75de-44e1-ba73-bdc4ff379c7f,white,Alive,Thyroid gland,female,stage i
+4d30606f-3ab6-4ef0-9991-8897cdb9960b,white,Alive,Thyroid gland,female,stage iii
+2c9e8686-9757-4e05-8d0e-efeaa3045d66,asian,Alive,Thyroid gland,female,stage i
+4c0b29e6-8530-43d5-8e8a-efb754e83ecd,white,Dead,Thyroid gland,female,stage iva
+3fc062bc-1b0b-4c8f-b79c-770bcaa1ec6e,white,Alive,Thyroid gland,female,stage iva
+b7a01148-5bab-4268-986a-a9cf7bca967f,white,Alive,Thyroid gland,female,stage i
+ca65a38e-8b49-4b50-908a-478b95b95c02,white,Alive,Thyroid gland,female,stage i
+fe28f76e-7ead-4d29-8c53-a576ae6021f7,not reported,Alive,Thyroid gland,female,stage i
+8d54a2ed-03f1-4a23-bdd2-f3395f5d3716,black or african american,Dead,Thyroid gland,female,stage i
+3d8b7654-b403-4360-80dc-8273ca90c2dc,white,Alive,Thyroid gland,female,stage i
+dd981e11-4b49-447e-8ebc-d9db4b55ce9b,black or african american,Alive,Thyroid gland,male,stage iii
+a3765a2b-ff09-4dec-b990-65529345214e,white,Alive,Thyroid gland,female,stage i
+99ef2fec-5a3c-4e42-8f78-7eaf9877e26d,asian,Alive,Thyroid gland,male,stage i
+861f94ce-45ff-4588-addb-e1ea48878c2e,white,Alive,Thyroid gland,female,stage iii
+154b4e7f-06f9-4813-beab-232227229f8b,white,Alive,Thyroid gland,female,stage ii
+f9d35f8e-ada4-4cc6-8227-28565ee531d2,white,Alive,Thyroid gland,male,stage iii
+63076bda-61a1-4403-a270-4130b5d003ee,white,Alive,Thyroid gland,female,stage ii
+fd036ec5-3ffb-40b1-8002-943be0e2532e,white,Alive,Thyroid gland,female,stage i
+258dccee-a3ce-4d4b-a60c-64f45ebfb7ad,white,Dead,Thyroid gland,female,stage iii
+ebccfb5f-c0a8-4263-aaff-b5dd83585191,white,Alive,Thyroid gland,female,stage i
+290be61a-84ef-4bed-8e37-b432cba6c88e,not reported,Alive,Thyroid gland,male,stage iva
+c31b3adf-3fc6-4a72-83b0-bbc0f295b5e7,asian,Alive,Thyroid gland,female,stage ivc
+8bea483b-ac43-4265-b2c4-0f031e539008,white,Alive,Thyroid gland,female,stage ii
+fc70a652-7925-4759-8e1f-05fd56829df4,white,Dead,Thyroid gland,male,stage iii
+e08c161c-a9ac-4001-b567-2c15bef66fd5,white,Alive,"Kidney, NOS",male,stage i
+da0289c6-ff84-4063-ba99-a0d0a338f6cd,white,Alive,"Kidney, NOS",male,stage ii
+a6e960af-3ca5-42fb-b546-451c2583282d,black or african american,Alive,"Kidney, NOS",male,not reported
+8023d4c9-b56d-417a-9a52-d45b59c756ed,white,Alive,Thyroid gland,male,stage i
+51ae5536-f55c-4fd6-b990-5d3add98de5c,white,Alive,"Kidney, NOS",male,stage i
+db882417-af3c-4a86-9004-f7e943798409,white,Dead,"Kidney, NOS",male,stage iii
+4d02010e-9e69-40d3-9bf0-3d4510aa0614,white,Alive,"Kidney, NOS",female,not reported
+497cc506-03fe-4ffa-860b-5a12adb1bc7d,white,Alive,"Upper lobe, lung",male,stage ia
+fe3eeeb6-0db4-46d7-a020-55604d474c12,white,Dead,"Lung, NOS",male,stage iv
+c4cfa3cc-e305-42dd-be57-97efbb891659,white,Alive,"Upper lobe, lung",female,stage iib
+8e2aca86-7cba-4631-9f25-4d14219dbc6d,asian,Alive,"Upper lobe, lung",female,stage ia
+812a2d18-c43b-4484-8a8d-234056a0e90b,black or african american,Alive,Thyroid gland,male,stage ii
+5eb0d577-223b-4409-89d1-5c5d196affc3,white,Alive,Thyroid gland,female,stage i
+c047e741-2b29-45df-a577-351bddc50eb8,white,Alive,Thyroid gland,female,stage i
+2012869d-c169-4cea-aa09-c892fb79bbaa,not reported,Alive,Thyroid gland,female,stage i
+85def63a-39ab-4c83-ab8c-02c6f702f05d,american indian or alaska native,Alive,Thyroid gland,female,stage i
+f900767e-097b-4def-8a74-78fb042a039d,black or african american,Alive,"Kidney, NOS",female,stage i
+ad7ba244-67fa-4155-8f13-424bdcbb12e5,white,Alive,"Kidney, NOS",female,not reported
+0843841b-afab-4831-9084-a850db85287c,black or african american,Alive,"Kidney, NOS",male,stage i
+45bdcfd6-1e3f-4be8-b843-ae949e8e43eb,black or african american,Alive,"Kidney, NOS",male,stage i
+3cba0f75-a95d-43e5-815b-a2582a80df05,asian,Alive,"Kidney, NOS",male,stage i
+2b7c7e88-a204-44a4-ab28-624b586dc238,white,Alive,"Kidney, NOS",female,stage i
+cff68090-09df-492b-874c-0caeb29f9361,white,Alive,"Kidney, NOS",male,stage i
+44e3fa7e-9a5f-438b-9c87-daa559e28d8d,black or african american,Alive,"Kidney, NOS",female,stage i
+919e9d37-3c44-4d15-a246-b7af1c13c1b8,black or african american,Alive,"Kidney, NOS",male,stage i
+71b35cd8-ecee-4599-bb24-b1ef78118423,black or african american,Alive,"Kidney, NOS",female,not reported
+4a9a3a6d-090a-4c26-b16c-d65055f05628,black or african american,Alive,"Kidney, NOS",female,stage iii
+a0f4ee95-b457-43cf-8b6c-0b6882dd99ce,white,Alive,"Kidney, NOS",female,stage iv
+ae8bc8ea-29e6-4fe4-9095-d6d2655ee4f5,white,Alive,"Kidney, NOS",male,stage iii
+3abd0691-f575-44ce-a13e-8f6bceb8cabf,white,Alive,"Kidney, NOS",male,stage iii
+cefaf325-24d3-4b69-bddb-1ceb66f9a693,white,Alive,"Kidney, NOS",female,not reported
+3d3e1db7-716b-4f0f-84b9-2d2f11c9390f,not reported,Alive,"Kidney, NOS",female,stage iii
+8e50e35f-3fb3-4f1a-b4d5-4bacd31bb0bd,not reported,Alive,"Kidney, NOS",male,stage i
+e70c561a-1640-49d6-9662-f49b08118f1e,white,Alive,"Kidney, NOS",male,stage i
+91a605b2-929a-44ce-8522-2ff793ddf82f,not reported,Dead,"Kidney, NOS",male,stage iii
+2797088e-f534-4c1e-abf8-cc6f832cd911,white,Alive,"Kidney, NOS",male,stage i
+33c09cd7-2ccc-4a69-b738-79dfd9aa149d,white,Alive,"Kidney, NOS",male,not reported
+f76bb0cc-eb45-4a2b-9961-e94641a53dab,white,Alive,"Kidney, NOS",male,stage i
+87ecfd2a-3376-446b-9b60-2cb8541bab9a,white,Alive,"Kidney, NOS",male,stage iii
+6bed7cf2-4573-4757-adb3-032adc490ecd,white,Alive,"Kidney, NOS",male,stage i
+72cc3423-d214-4035-b934-0d4e4b806b6c,white,Alive,"Kidney, NOS",male,not reported
+d8b73891-05e0-4ab5-ab2e-0acf8d03595c,white,Alive,"Kidney, NOS",female,stage i
+6369a2b1-921b-4d35-a0c8-6edac508a702,black or african american,Alive,"Kidney, NOS",female,stage iii
+34a19ed5-31a7-4ea4-91be-9fac72320e99,white,Alive,"Kidney, NOS",male,stage iii
+2d813726-b8a6-4719-9323-a7496547e156,black or african american,Dead,"Kidney, NOS",male,stage i
+4f81a5b5-b570-4331-a51b-4a65fc2e4e13,white,Alive,"Kidney, NOS",male,stage i
+c573a2f6-2404-4978-8ddc-91af27bab7c6,white,Alive,"Kidney, NOS",male,stage iii
+c793250d-1553-48e1-b6b2-aaffdfe5d39b,white,Alive,"Kidney, NOS",female,stage iii
+64b35577-c430-4f11-8a34-965921e3a37d,white,Alive,"Kidney, NOS",male,stage iii
+9ab5714c-19bc-4022-b1ce-ef18ee2a9cb2,white,Dead,"Kidney, NOS",male,stage iii
+5dfd6430-e602-415c-905a-a894076940e6,white,Alive,"Kidney, NOS",female,stage i
+87971996-94d7-4e88-8ed5-e059db838af7,white,Alive,"Kidney, NOS",male,not reported
+f0c2cc3e-afdc-41b0-a892-3c0c00da5bc7,white,Dead,"Kidney, NOS",female,stage i
+95cb399c-0a6f-4bd8-8146-36f367f30611,white,Alive,"Kidney, NOS",female,stage i
+691adaa9-196a-4b62-9437-640c4ae6e2b2,not reported,Alive,Dome of bladder,female,stage iii
+0300e3a3-c278-4c20-8739-6d8aa24588cb,white,Alive,"Kidney, NOS",male,not reported
+04552448-4629-45c3-b2ab-0c1dec9c36cd,not reported,Alive,"Kidney, NOS",male,stage ii
+03301d0d-efee-4087-9fff-d1d4f53a924c,white,Alive,"Kidney, NOS",male,stage iii
+4af65061-a15f-48d5-b4c0-30003386bf2e,white,Dead,"Kidney, NOS",female,stage iii
+e0c97b37-9834-4811-981e-dcb8982dba44,white,Alive,"Kidney, NOS",male,stage ii
+e4245fff-1281-40e5-87b4-4e42a18a3a63,not reported,Alive,"Kidney, NOS",male,stage i
+c0ce18e0-89bd-469d-8ca7-292f815cd34f,asian,Alive,"Kidney, NOS",male,stage i
+8fc6b46b-1c60-40b1-8924-0c2c9307c6e0,white,Dead,"Kidney, NOS",female,stage iv
+92dec9c3-27c1-48c4-8184-5d8d12678992,white,Alive,"Kidney, NOS",male,stage i
+466d039a-d4d3-4bf4-93a2-89039f397d0d,white,Alive,"Kidney, NOS",male,stage iv
+07d409a0-d0dd-415a-95c3-38c26a518c56,white,Alive,"Kidney, NOS",male,not reported
+11d7cf4d-4ad2-4ce7-a1ac-3b729a8d566e,white,Alive,"Kidney, NOS",male,stage i
+d8e6c4a2-7d2b-430c-8515-c2148c9bcda4,white,Alive,"Kidney, NOS",male,stage i
+ed560804-50b9-488e-bfa9-33f20cb83106,white,Alive,"Kidney, NOS",male,stage iii
+beac52b4-ab6b-4f20-aeff-8c15990aa710,white,Alive,"Kidney, NOS",male,stage ii
+9fc40b03-0b56-4b1f-93ed-dbc455ae3fd9,white,Dead,"Kidney, NOS",male,stage iv
+284b4e63-ae72-476c-a28e-866c6b77ac00,white,Alive,"Kidney, NOS",male,stage i
+1bf54408-b5cb-45dc-ad03-ef2866a0ff59,white,Alive,"Kidney, NOS",male,stage i
+f00224ff-eb5d-4e46-ac9c-02fd7230f0c2,white,Alive,"Kidney, NOS",male,stage i
+8e5a0feb-b044-49ef-8cea-80816e4c5635,white,Alive,"Kidney, NOS",male,stage i
+6a29783c-117b-479d-9910-18d629c00c51,white,Alive,"Kidney, NOS",male,stage iii
+69e6da3c-2a03-48bc-bc2a-019b21820149,white,Alive,"Kidney, NOS",female,stage i
+1d9d253f-2de6-4eb6-8514-8ed3b041a83b,white,Alive,"Kidney, NOS",male,not reported
+d9405dd0-ab00-4aac-9ba3-1e2bc43305da,white,Alive,"Kidney, NOS",male,stage i
+a7bf785f-0539-4899-ac21-47d1fc347ee8,white,Alive,"Kidney, NOS",male,stage ii
+f459ce8d-d245-4feb-a1fe-c273b02feaaf,white,Alive,"Kidney, NOS",female,stage i
+925ae8ff-3200-4564-be76-94db0984b027,black or african american,Alive,"Kidney, NOS",male,stage i
+d66c9261-6c0c-44b0-92fa-a43757f34cb2,white,Dead,"Kidney, NOS",male,stage iv
+56ae2434-e84a-494b-a784-2c2009be8ae6,white,Alive,"Kidney, NOS",male,stage iii
+18545977-f8a7-42a8-a15c-7a1fe72bd77f,white,Alive,"Kidney, NOS",male,stage i
+ee6dd13a-1436-48f5-8a9f-732898c1735f,black or african american,Alive,"Kidney, NOS",female,stage i
+5570758c-1f07-4ff9-a570-b7ae39d15a89,white,Alive,"Kidney, NOS",female,stage i
+3eafd07f-49f4-4e16-a4f5-8c43ff40fb90,black or african american,Alive,"Kidney, NOS",female,stage ii
+762eddb5-1b47-4b79-b20a-1edfb07c0705,not reported,Alive,Thyroid gland,female,stage i
+9efd27c7-9893-49fd-886e-e85057dd5d2e,black or african american,Alive,Thyroid gland,female,stage i
+ea2c873a-ea52-4920-8d20-554d5fa8ddc1,white,Dead,Thyroid gland,female,stage ivc
+9aa61ab5-f675-43dd-8a99-077164b41f30,white,Alive,Thyroid gland,female,stage iii
+6675c581-297d-44cd-b80f-ae7e53d48228,white,Alive,Thyroid gland,male,stage i
+8a8e05aa-f13a-4142-a335-7aafbee7b664,white,Alive,Thyroid gland,female,stage i
+4fc8e011-4433-4537-b03f-457a3a70240f,white,Alive,Thyroid gland,male,stage iv
+2f9ed09d-2626-4c23-ba47-1850d36f812a,white,Alive,Thyroid gland,female,stage i
+45eefba8-9f7c-49e9-a3f5-d13cfa264ff6,white,Alive,Thyroid gland,female,stage iii
+80da6e75-b7ad-47a6-9923-1e21a519a968,asian,Alive,Thyroid gland,female,stage i
+dc659941-8d12-4095-8d8a-1769878c363c,white,Alive,Thyroid gland,female,stage i
+59e91fe5-c80f-4915-be0f-1a7cd3f31f3e,white,Alive,Thyroid gland,male,stage ii
+d92902ff-8023-411c-a7ca-1afcbb64937e,white,Alive,Thyroid gland,female,stage i
+c77976b6-35ea-4623-a92a-6d9440a978e6,white,Alive,Thyroid gland,female,stage iii
+e35b2928-8784-45d0-a71a-a2df161542fa,white,Alive,Thyroid gland,female,stage i
+3b5582e4-58af-4a01-b83d-6fe9704f2b43,asian,Alive,Thyroid gland,female,stage i
+90750006-fb25-4ccd-90df-9f300cd26a5b,white,Alive,Thyroid gland,male,stage iva
+729fc937-192a-4eb7-b357-b8f0d2da1f08,white,Alive,Thyroid gland,female,stage i
+6ee95dc8-2bac-4691-afa2-8222e07506ad,white,Alive,Thyroid gland,female,stage i
+9c6c44b3-a2ca-456e-a8d1-d375309c1751,asian,Alive,Thyroid gland,female,stage i
+fffdb1d9-58d1-425c-ac12-1e1e5f443bf7,asian,Alive,Thyroid gland,female,stage i
+e0ab95ef-5c96-4d00-8950-04e26e3b4672,not reported,Alive,Thyroid gland,male,stage i
+82dd133b-691b-4bbf-b948-6270869d9b69,white,Alive,Thyroid gland,male,stage iva
+24a968aa-8169-44cb-a8ac-72d7efa1fa7b,white,Alive,Thyroid gland,female,stage i
+047c0040-6eb9-4a05-923d-ec485585baac,black or african american,Alive,"Kidney, NOS",female,stage i
+7c1f5540-ba4f-498d-ac15-b395197ec5f3,white,Alive,"Kidney, NOS",male,not reported
+39847790-c951-4f9d-b23c-88c7f44d20a0,white,Dead,"Kidney, NOS",male,stage iii
+7f715b2e-fe7c-4a6e-95d1-fcab93b58f21,white,Dead,"Kidney, NOS",female,stage iv
+6988cf52-1e6e-4ed5-922b-044cf08a4553,white,Alive,"Kidney, NOS",male,not reported
+51de632d-e3ec-4995-90df-01b894cd68f6,white,Alive,"Kidney, NOS",female,stage i
+0f9b78c8-ee9d-4e60-939c-bdbe040c212d,not reported,Alive,Thyroid gland,female,stage i
+ab8c9101-adeb-4c43-a8bb-b089ebd711f6,white,Alive,Thyroid gland,female,stage iii
+fcb7ed90-6c6b-4420-8d5b-4fc6f763adaa,black or african american,Alive,"Kidney, NOS",male,stage ii
+fb39f29a-5d1e-4f96-8adb-e18cc87fad2e,white,Alive,Thyroid gland,female,stage i
+59681e8f-cf57-47b4-82e1-6be8ead9583e,white,Alive,Thyroid gland,male,stage i
+da575651-8a69-4d08-aa0f-4a1891b0b44f,not reported,Alive,Thyroid gland,female,stage i
+44465a32-8ee9-4575-94b8-0200ba7c5bd4,black or african american,Alive,Thyroid gland,female,stage iii
+1f094db9-f8cc-4066-adff-609682936172,not reported,Alive,Thyroid gland,female,stage ii
+d3d9ccdd-4789-43b0-8e73-b2c42cb7d83d,asian,Alive,Thyroid gland,female,stage i
+47bde6dd-fa41-4d1b-8b20-2a5a5cdb2769,not reported,Alive,Thyroid gland,female,stage i
+552e78bb-dc9e-4c73-82bd-93a4bbea3a3a,white,Alive,"Kidney, NOS",male,stage i
+25e4b9ff-2bdb-4ee1-8d6d-17cce7949db9,white,Alive,"Kidney, NOS",male,stage i
+95a54459-3fac-42d5-8ec1-ed66d971d64d,asian,Alive,Ascending colon,male,stage iia
+3cad2139-0bc5-4c8f-994a-018be7e2e6ea,white,Dead,"Kidney, NOS",male,stage iii
+9e4c8e1e-041c-4c95-9801-70c8dd0a7797,black or african american,Alive,"Kidney, NOS",male,stage i
+dc4b12b4-9b0d-4015-8e97-9f8756e24485,not reported,Alive,"Kidney, NOS",male,stage i
+d80f601b-1064-4ff0-9c51-7f6afb22d1f5,white,Dead,"Kidney, NOS",male,stage iv
+1ef4526a-8089-46ba-aa7f-4300ab6bbbe9,white,Alive,"Kidney, NOS",female,stage i
+6c15b31b-6942-43a9-b698-701a61430e30,white,Alive,"Kidney, NOS",male,stage i
+568bfbc4-a4e8-4808-b458-5eaf56e83c45,black or african american,Alive,"Kidney, NOS",male,not reported
+0c409bc3-1893-4203-9d84-6c016f1960c3,black or african american,Alive,"Kidney, NOS",male,stage i
+a007b49b-297c-48c7-9f0a-12bdb470df4b,white,Alive,"Kidney, NOS",male,stage ii
+c6f08366-f30d-45bd-b949-b59d2493995d,white,Alive,Thyroid gland,male,stage i
+90473122-7221-491d-8fc2-0c72421d7861,not reported,Alive,Thyroid gland,male,stage iva
+c0a632ca-3e72-4553-8670-4a83c3a81b42,white,Alive,"Kidney, NOS",female,stage i
+0e065977-9138-4aed-9c9f-24e475f214c4,white,Alive,"Kidney, NOS",male,not reported
+56f883d7-3ce1-47be-a581-f7337d06d359,white,Dead,"Kidney, NOS",male,stage iii
+d8b88441-16c7-4201-9c01-3e7237d18eee,white,Alive,"Kidney, NOS",male,stage iii
+36e36797-1059-4198-ac91-45b3fa50f683,white,Alive,"Kidney, NOS",male,stage i
+295004c6-d52e-4971-82ff-84595850f548,white,Alive,"Kidney, NOS",male,stage iii
+36182304-2db7-446a-929c-7e43a47d863a,white,Alive,"Kidney, NOS",female,stage iii
+8d28f586-3de5-4033-a9fd-4f67be406fb4,not reported,Alive,"Kidney, NOS",male,not reported
+ad4101b9-b9e3-4d41-8c88-424559012853,white,Alive,"Kidney, NOS",male,stage iii
+8af42b33-6ab7-4ea0-860d-f3af9177ee2d,white,Alive,"Kidney, NOS",male,stage i
+2272c592-b9b6-4483-9f7f-6e185699b900,white,Dead,"Kidney, NOS",male,stage ii
+048ebea2-47ef-4359-9213-a1b7e4fdecf0,white,Alive,"Kidney, NOS",male,stage i
+f07a7717-f6eb-40b7-82ea-0aa9d17ec337,white,Dead,"Kidney, NOS",male,stage i
+0b83c47f-246c-4af1-b4c0-2b880edbf2d4,white,Alive,"Kidney, NOS",female,stage i
+3b76c73f-f530-4a3a-91c4-31834747321e,white,Alive,"Kidney, NOS",male,stage i
+0db35585-c319-4feb-b157-41fa14f9aa11,white,Alive,"Kidney, NOS",male,stage i
+3e5385f5-d4ff-4b96-8259-312602ec1196,not reported,Alive,"Kidney, NOS",male,stage i
+7bde24e1-8dc8-4359-827e-ffaef72898ef,white,Alive,"Kidney, NOS",male,stage i
+8b3c068d-5090-4030-8e7e-39da005dee79,white,Alive,"Kidney, NOS",female,stage i
+3db2fdbb-ef0e-4a5d-8fb2-4e6756d29b17,white,Alive,"Kidney, NOS",male,stage i
+fcad8f85-0046-4fc9-9611-3bf8ac91e887,white,Alive,"Kidney, NOS",female,stage i
+17846514-9a0a-40cd-8841-227e32a0c7db,white,Alive,"Kidney, NOS",male,stage i
+49a756a9-7125-4b1d-bcfc-6cc44bdf26f6,black or african american,Dead,"Kidney, NOS",male,stage iv
+1db41963-a520-47f0-828c-ed5c626507b1,white,Alive,"Kidney, NOS",female,stage iii
+13577a2b-ee68-45e5-96a8-b1fd71fc62da,white,Alive,Thyroid gland,female,stage ii
+eeb114ea-ecee-49ee-a162-b3b7bc0a60cd,asian,Alive,Gastric antrum,female,stage ii
+d487536f-0521-4d42-9150-6a806ae00241,white,Alive,Thyroid gland,male,stage iii
+4c513413-263e-4c7b-b997-7b688c47b698,white,Alive,Thyroid gland,female,stage ii
+b983a678-b0ae-42c2-8f37-d6ecaf07413b,white,Alive,Thyroid gland,female,stage iii
+63986dd0-63ba-4ee5-aa25-8ff2cbb762d3,white,Alive,Thyroid gland,male,stage iii
+2ae6a00c-bc6e-42fe-a0cb-40339d5fdc73,white,Alive,Thyroid gland,female,stage iva
+58ff4366-20a3-40a2-a87a-551e17cdb5d3,white,Alive,Thyroid gland,female,stage i
+92e9f5e1-b597-451b-b6d5-fad9a77ba87a,asian,Alive,Thyroid gland,male,stage i
+2cae34a6-73a0-4a67-8dcc-051468c41389,white,Alive,Thyroid gland,female,stage i
+e48a8fa7-4e2b-44a0-95f5-e2925c60bad3,white,Alive,Thyroid gland,female,stage iii
+f12fa57b-3427-45fe-994b-602f498b68da,white,Alive,Thyroid gland,female,stage i
+0fe3b19a-f5e4-497e-92da-32ff6c77b066,white,Alive,Thyroid gland,male,stage iii
+52bc133b-8a10-4c9b-adc3-22910a191e6b,black or african american,Alive,Thyroid gland,female,stage i
+0b170ed4-d919-466b-b765-47878b865aed,white,Alive,Thyroid gland,female,stage i
+a4a217c1-66e8-4cc5-805a-1172ce5da721,white,Alive,Thyroid gland,female,stage iii
+8a233b01-2959-467f-8950-02be16309156,white,Dead,Thyroid gland,female,stage iv
+c8d62754-1601-40c0-98ef-e5bb94306b92,white,Alive,Thyroid gland,male,stage ii
+7044dee0-fd6c-4e75-b731-dc60a386a1ab,white,Alive,Thyroid gland,male,stage iva
+b3b7d701-ec84-4018-a3ce-f59198b35767,not reported,Alive,Thyroid gland,female,stage iii
+2dcdf9a1-9437-4515-88c1-1c17d6b6418c,white,Alive,Thyroid gland,female,stage iva
+f69ff5fb-7e0b-4b16-9fc9-498379b11562,white,Alive,Thyroid gland,female,stage i
+dd305533-e48c-4fed-9283-5082703c23ff,white,Alive,Thyroid gland,female,stage i
+646d1585-2d12-483c-8425-77d5451b2869,not reported,Alive,Thyroid gland,female,stage i
+4f340c8c-5912-4257-b57d-c096da254c26,white,Alive,Thyroid gland,female,stage i
+a09b20b5-c187-4632-b996-0d5314a9885c,white,Alive,Thyroid gland,male,stage i
+856893d6-0ed7-422b-ac19-1a5871088805,white,Alive,Thyroid gland,female,stage i
+00b62df6-1189-4e38-8601-70416e05550d,white,Alive,Thyroid gland,male,stage iii
+3d952b80-501e-41c6-a3af-0bd6014b81e4,white,Alive,Thyroid gland,female,stage iii
+fd8c4ff3-e759-495f-96e7-1f406bb70190,white,Alive,Thyroid gland,female,stage i
+dccba97d-4e81-42fb-93b3-90be68a034fb,white,Alive,Thyroid gland,female,stage iii
+4be84ffe-4b12-4b71-90bb-9ea0ca6947f8,asian,Alive,Thyroid gland,female,stage i
+0d497faf-2c1c-4173-a5fe-770cca73323c,white,Alive,Thyroid gland,male,stage iva
+dc392a57-2028-4eca-8bf3-760ec99703ee,white,Alive,Thyroid gland,male,stage iii
+eb15422b-cafd-4af2-973e-8c997a911170,black or african american,Alive,Thyroid gland,female,stage i
+3a7c35e0-9ed1-4098-8585-52f5991b2534,white,Alive,Thyroid gland,female,stage i
+fca0c7d9-5e6f-4aa7-ba04-5df2eb8ba398,white,Alive,Thyroid gland,female,stage ii
+794131b8-f4be-4f15-b3b9-6f0b10a5a38b,asian,Alive,Sigmoid colon,male,stage iiib
+2d633ced-ae85-462c-90e7-c1b109e084cf,asian,Alive,Thyroid gland,female,stage i
+d262fdf0-30bf-4618-9342-de5a2a053828,asian,Alive,Fundus of stomach,male,stage ib
+7746be87-7ad0-48a7-84fb-08a81b220bdb,white,Dead,Thyroid gland,male,stage ivc
+6e1c9ac8-eead-4db9-8f30-ef3591daf78b,white,Alive,Thyroid gland,female,stage iii
+5cdaa0c8-27b8-4552-9dcd-20d67b1eb70f,white,Alive,Thyroid gland,female,stage i
+64131b0b-9f36-44be-8bec-92c71ec36343,white,Alive,Thyroid gland,female,stage i
+4ec2bb20-2190-4c37-8aaa-4086fef1fbb6,white,Alive,Thyroid gland,female,stage iva
+3a211d5a-085f-4902-86b6-50e4eb36b897,not reported,Alive,Thyroid gland,female,stage iii
+745642a0-ddba-495b-bafc-da085552758a,white,Alive,Thyroid gland,female,stage iii
+104b6629-aff4-411b-9704-547c47ada5a1,not reported,Alive,Thyroid gland,female,stage i
+331cae6e-2868-4c58-9302-709a9ff7d025,white,Alive,Thyroid gland,female,stage i
+9f31deb9-b9f4-439b-aea4-f87c71406c79,white,Alive,Thyroid gland,female,stage i
+980d1c65-b675-4568-9ce8-c0278686ae8d,white,Alive,Thyroid gland,female,stage i
+4e227a7a-b885-4e9b-a4c2-aad9e6c154e5,white,Alive,Thyroid gland,female,stage iii
+fb83f7d7-2182-4fb7-8e3e-8ad7f1feac72,white,Alive,Thyroid gland,male,stage i
+229004af-14eb-442e-905e-61c842b3efa0,white,Dead,Thyroid gland,female,stage iii
+afb00cd4-e5da-4251-86fb-532c3f65324c,asian,Alive,Thyroid gland,female,stage i
+1f6be7ca-76fd-4509-99a6-dfa59b0ac51f,not reported,Alive,Thyroid gland,male,stage i
+80aeb61d-21cf-4804-90ea-5d22eb06e299,white,Alive,Thyroid gland,female,stage i
+93691bae-f1bd-437e-ae72-b50736d1e29a,asian,Alive,Thyroid gland,female,stage i
+5be6c0d9-6ad7-482f-bd00-0432702df495,white,Alive,Thyroid gland,female,stage i
+5e085199-152a-40f5-a8f8-3a3a0f31c2e0,white,Alive,Thyroid gland,female,stage i
+bed1fb3c-4459-460e-8190-29211857fa73,white,Alive,Thyroid gland,female,stage iii
+d5ea6520-e446-43d2-9883-441f70d80359,asian,Alive,Thyroid gland,female,stage i
+f7f6e9f4-1aa8-48a0-bea9-efaa9379f6f6,white,Alive,Thyroid gland,female,stage iii
+b0cb6ed7-3d9f-4d5e-8df5-edcc921c43b4,black or african american,Alive,Thyroid gland,female,not reported
+9b1dbd0d-be6d-4a88-881a-faf57ceba81c,asian,Alive,Thyroid gland,male,stage i
+db7d3240-9fbd-432e-83ee-7226a6dcb9ce,black or african american,Alive,"Kidney, NOS",male,stage i
+f94fc471-74f8-4774-9f28-95533293fc1d,white,Dead,"Kidney, NOS",female,not reported
+c1ea9a13-7f40-438b-a437-566d3d23f8bc,white,Alive,"Kidney, NOS",male,stage iv
+50f914de-0410-4fe1-8e97-2fbd8be2efc0,black or african american,Alive,"Kidney, NOS",female,stage i
+d3a226c3-a15c-4b3b-985b-211650cf0380,white,Alive,"Kidney, NOS",male,not reported
+e6e6a773-b155-45a9-989f-75c12ce1702a,white,Alive,"Kidney, NOS",male,stage i
+55b8d871-dbff-4c4a-8f73-82565588c23f,white,Alive,"Kidney, NOS",female,stage i
+b5e873c1-1050-4c92-a26c-684aa26faa99,white,Alive,"Kidney, NOS",male,stage i
+10d3a64b-22d0-4846-8972-d78173deca2c,black or african american,Alive,"Kidney, NOS",male,stage i
+ac20ec63-1615-4cd3-966f-1e786077af75,white,Alive,"Kidney, NOS",female,stage i
+77657eb5-0c77-4f85-9a5e-9f7071d82155,white,Alive,"Kidney, NOS",male,stage i
+f89990c0-e6a1-4721-86e6-2b06c33e0588,white,Dead,"Kidney, NOS",male,stage i
+a904ce56-42e6-4e61-ab62-cdf8192afbb4,white,Dead,"Kidney, NOS",male,stage i
+b06cdf61-61c9-4035-a55d-1ef21dc21069,white,Dead,"Kidney, NOS",female,stage iii
+1a726069-0b44-42ad-9a20-0ee90b31796b,white,Alive,"Kidney, NOS",male,stage i
+f085f014-2690-4ff0-910a-89176c78cfc9,white,Alive,"Kidney, NOS",male,stage i
+280d8569-0acb-47fa-a8f5-aa8540d89a94,white,Alive,"Kidney, NOS",male,stage i
+39d45532-d2f4-49f1-b1c6-880ff0ebe0ed,white,Alive,Thyroid gland,female,stage i
+6ba76174-620e-4851-857a-d0adbfd6f3e6,white,Alive,Thyroid gland,female,stage iii
+e28e35b1-eb58-45bb-b19a-958187227500,white,Alive,Thyroid gland,female,stage i
+de9315b3-b3df-45f0-adc2-69aa6b8ff717,not reported,Alive,Thyroid gland,female,stage iva
+80420c04-709b-4ab2-a88c-1e22b3a09b9c,not reported,Alive,Thyroid gland,male,stage i
+ab0a98ae-98f1-425e-9418-550df6ac24cd,white,Alive,Thyroid gland,female,stage iii
+b4a60a32-2c1b-44fb-92f4-b30f985dc424,white,Alive,Thyroid gland,male,stage i
+934a58af-0ffc-487e-9e95-fa7643b7d5cb,white,Alive,Thyroid gland,female,stage i
+aa6e3437-ea1c-4bed-ab7d-8f3f89f8ceeb,white,Alive,Thyroid gland,female,stage iii
+6f77fc81-1bf4-47c8-b1d8-78bb17cb13f8,asian,Alive,Thyroid gland,female,stage i
+efc46db7-f9df-494e-acca-357cb64c019a,asian,Alive,Thyroid gland,female,stage i
+851a1157-e460-4794-8534-2eb6f0ae7468,white,Alive,"Kidney, NOS",male,stage i
+94625198-6b3b-4cf2-bb22-4d247e498d28,black or african american,Alive,"Kidney, NOS",male,stage i
+551cade6-32e8-4aac-9e92-d6b113d4ed7f,american indian or alaska native,Alive,"Kidney, NOS",male,stage i
+7f677700-65c8-4d17-b6ae-520869ba1bbd,black or african american,Alive,"Kidney, NOS",male,stage i
+646241fe-e202-4e72-ae61-84f577488968,white,Alive,"Kidney, NOS",male,stage iii
+8ffd330e-d8da-4c27-871c-89831a548f30,white,Alive,"Kidney, NOS",male,stage i
+9626e62f-f984-463a-8ef3-677489191864,white,Alive,"Kidney, NOS",male,stage i
+094dbc57-e3a4-4319-8964-f29a06bd0203,white,Alive,"Kidney, NOS",female,stage i
+ce0f2e87-6c46-45b5-8df7-3ba32e48ce52,white,Alive,"Kidney, NOS",male,stage i
+6014f16b-5f3d-43ec-b8a7-7cf99583101a,black or african american,Alive,"Kidney, NOS",female,stage ii
+f9306cb1-c4e4-42eb-8aa9-ee906c408e10,not reported,Alive,"Kidney, NOS",male,not reported
+158549f3-8f26-4efa-b3fd-62da0665830c,black or african american,Alive,"Kidney, NOS",male,stage i
+781c4776-7f82-4bc5-a490-291ebcebbca4,black or african american,Alive,"Kidney, NOS",male,stage i
+94394c85-6a69-4553-b1ee-c2364d5b4dd1,asian,Alive,"Kidney, NOS",female,stage iv
+c20b1007-0111-4ef6-9df5-14da6094fca1,white,Alive,"Kidney, NOS",male,stage i
+d34c99b6-d90d-4328-86f8-e0152365e1ab,white,Dead,"Kidney, NOS",male,stage i
+e3d519cf-7727-4ae1-92d1-156f5add1701,black or african american,Dead,"Kidney, NOS",male,stage iii
+e8bb682e-60a1-4842-a732-74558256dff8,white,Alive,"Kidney, NOS",male,stage i
+87c5e2cb-0b2e-4f40-927b-5e1ad7de4824,black or african american,Alive,"Kidney, NOS",male,stage iii
+5ee039ec-3414-4fb8-8299-0c8c5198a1eb,black or african american,Alive,"Kidney, NOS",female,stage i
+ca245eb0-c60e-4a94-afd8-ccf15c1008df,white,Alive,"Kidney, NOS",male,not reported
+817a7f60-2d13-4372-9dcc-740da772740e,black or african american,Alive,"Kidney, NOS",female,stage i
+68642658-7996-4423-bb25-d3beb9a414f1,white,Alive,"Kidney, NOS",male,stage i
+7ef7c87e-6f11-4b9b-bb74-3c86036c8d20,black or african american,Alive,"Kidney, NOS",female,stage ii
+072507cf-1249-4b28-86d4-3ab97822a74c,black or african american,Alive,"Kidney, NOS",male,stage iii
+793f2df2-87a3-47e2-9cc1-a1a0e8487b51,white,Dead,"Kidney, NOS",male,stage iv
+5503f854-8eea-49b7-a196-bdc6c3c5815b,white,Alive,"Kidney, NOS",male,stage i
+5c9a6c40-982e-45c7-98d3-aeb6cad16986,black or african american,Dead,"Kidney, NOS",male,stage i
+2666ab3e-f2b9-4b3d-bfce-aac2a4bafe62,white,Alive,"Kidney, NOS",female,stage i
+5195c9ac-b649-49f8-8750-f9a4787e8e52,white,Dead,"Kidney, NOS",male,stage ii
+44598068-5220-4287-adad-0b4c3e21dc4b,white,Alive,"Kidney, NOS",male,stage i
+307b742a-3340-41ae-8e41-934b58bbd48d,white,Alive,"Kidney, NOS",male,stage i
+4668cb20-6396-4d98-90d8-61814697d16a,black or african american,Alive,"Kidney, NOS",male,stage i
+3bd50bd2-c291-4362-9663-7b783a84ec43,white,Alive,"Kidney, NOS",female,not reported
+b02a2698-d4d3-4977-a251-989694d60f73,white,Alive,"Kidney, NOS",male,stage i
+75f5983b-553b-4a96-8625-867885e83db4,white,Alive,"Kidney, NOS",female,stage i
+04ca8ab0-c10c-4300-8244-108ebc304410,white,Alive,"Kidney, NOS",male,stage i
+12560466-52ca-4114-8c9b-4853599628f1,white,Alive,"Kidney, NOS",female,stage i
+635fedd0-4daf-4d97-958a-3e0f49c1a708,white,Dead,"Kidney, NOS",male,stage iv
+98a639c2-d615-4dc1-98f0-298752b69b09,not reported,Alive,"Kidney, NOS",male,stage i
+4bec3959-d59d-4e80-855c-f044a5780780,white,Dead,"Kidney, NOS",male,not reported
+27fb01ac-3ea8-4dd5-8479-d89cdef1a118,white,Alive,"Kidney, NOS",male,stage i
+6bebd839-7a72-4e1f-9b76-146bdc0c55fc,white,Alive,"Kidney, NOS",male,stage i
+6a6c1569-1045-4ed3-acdb-5c45e47614ca,white,Alive,"Kidney, NOS",female,stage i
+2c084454-18e9-4837-9bba-7e91a73a48e0,white,Alive,"Kidney, NOS",male,stage i
+6abc861a-376d-446b-acee-fb0f03a82c09,asian,Alive,Thyroid gland,male,stage iva
+bbb4578f-2df7-42fe-9e52-f923da05b4d0,white,Alive,"Kidney, NOS",male,stage iii
+9fc9c087-0c82-49ea-8437-861a3029c3d4,white,Alive,"Kidney, NOS",male,stage i
+cfbeefdc-667f-4df0-967f-74b625f0d96a,black or african american,Alive,"Kidney, NOS",male,stage i
+234a072c-f473-41bc-9d7a-39e0f949f7a5,white,Alive,"Kidney, NOS",male,stage ii
+fa55865d-65b7-4587-800e-17b6b7f77517,white,Alive,"Kidney, NOS",female,stage i
+d2748e35-4719-43c1-a533-b6b0cd9688c3,white,Alive,"Kidney, NOS",male,stage i
+75a53bff-bf0f-4ad8-9b8e-14a27914d4f2,white,Alive,"Kidney, NOS",male,stage iii
+519615e6-8847-4ed5-a409-b6b183ff3f06,black or african american,Alive,"Kidney, NOS",male,stage ii
+dd9f2a45-cec8-438a-9059-74752880a90e,white,Dead,"Kidney, NOS",male,stage i
